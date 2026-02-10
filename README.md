@@ -19,7 +19,7 @@ I developed machine learning models to predict molecular properties using molecu
 - Emsemble:
     - Stacking Regressor
 
-## Evauluation
+## Evaluation
 - Cross-validation
 - RMSE / R2
 - Comparison between single models and ensemble models
