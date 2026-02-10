@@ -19,7 +19,7 @@ I developed machine learning models to predict molecular properties using molecu
 - Emsemble:
     - Stacking Regressor
 
-## Evaluation
+## Evauluation
 - Cross-validation
 - RMSE / R2
 - Comparison between single models and ensemble models
@@ -32,3 +32,7 @@ I developed machine learning models to predict molecular properties using molecu
 ## Experiments
 Multiple feature combinations and models were tested during the competition.
 The final version reflects the best-performing configuration based on cross-validation results.
+
+## Tech Stack
+- Language: Python
+- Environment: Google Colab
