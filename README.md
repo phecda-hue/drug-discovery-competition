@@ -25,6 +25,10 @@ I developed machine learning models to predict molecular properties using molecu
 - Comparison between single models and ensemble models
 
 ## What I Learned
-- Importance of molecular representation in prediction performance
-- Effect of feature selection on ensemble models
-- Limitations of classical ML for molecular data
+- I observed that different machine learning models benefited from different molecular representations.
+- Tree-based models (e.g., Random Forest, XGBoost) showed stronger performance with fingerprint-based features, while other models benefited more from descriptor-based features.
+- This motivated me to apply model-specific feature selection and combine them using ensemble learning.
+
+## Experiments
+Multiple feature combinations and models were tested during the competition.
+The final version reflects the best-performing configuration based on cross-validation results.
