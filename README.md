@@ -1,3 +1,5 @@
+(https://colab.research.google.com/drive/1bMA9PiynNPH2kiHMtEepnQ34AUomeYmc?usp=sharing)
+
 ## Overview
 This project was conducted for a drug discovery competition.
 I developed an end-to-end machine learning pipeline to predict molecular inhibition activity for drug candidate screening using multiple molecular representations and ensemble learning.
